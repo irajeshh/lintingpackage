@@ -5,7 +5,7 @@ version: 0.0.1
 homepage:
 
 environment:
-  sdk: ^3.5.3
+  sdk: ^3.3.4
 
 dependencies:
   # lints: ^4.0.0
